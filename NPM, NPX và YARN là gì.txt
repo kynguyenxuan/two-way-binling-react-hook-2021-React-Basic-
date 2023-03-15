@@ -1,0 +1,22 @@
+- MPN 
+    - Project scope (dự án scope) project scope cài vào project của mình:
+        - npm install react react-dom => list vào dependencies
+        - npm i react react-dom => list vào dependencies
+        - npm install --save-dev react react-dom => list vào dependencies
+        - npm i react -D react-dom => list vào dependencies
+
+        Xóa thư viện khỏi dự án:
+        npm uninstall react react-dom 
+    - Global scope (phạm vi toàn cầu) cài vào máy tính của mình
+        - npm i --global create-react-app
+        - npm i --g create-react-app
+
+        Xóa
+        - npm uninstall -g create-react-app
+- NPX: khi cài nodejs nó sẽ cài thằng NPM,NPX 
+    - Tại sao dùng NPX?
+    - Gặp lỗi khi: npx create-react-app abc
+- YARN & NPM
+- YARN install
+- lưu ý:
+    - luôn bật develoment server (npm start || yarn start)

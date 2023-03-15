@@ -1,0 +1,1 @@
+cách kéo modules về khi bị xóa: npm i
